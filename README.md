@@ -1,5 +1,5 @@
 # Mars_Task2
-# Motor Control Project – Development Process & Learnings
+# Motor Control Project - Number - 2 
 
 So when I started with the code, here is what I was thinking. First up, as a user I had to give an input. So I needed the serial monitor. Then I had to turn the wheels as per the user's input. So I thought I could define functions for each of the user's choices. Forward, Backward, Right and left. I further also added a stop function to stop the motor movements.
 I started with trying to first fix the motor into a circuit and then operating it.
